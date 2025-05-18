@@ -1,5 +1,4 @@
 # PHP_Udemy_kursu
-# PHP Eğitim Notları ve Uygulamaları
 
 Bu depo, tamamladığım bir PHP kursu süresince öğrendiğim konulara ait notları ve örnek uygulamaları içermektedir. Her bölüm, PHP dilinin temel yapı taşlarını öğretmeye yönelik olarak adım adım ilerlemektedir.
 

@@ -1,0 +1,7 @@
+<?php
+class Car{
+
+    public function drive(){
+        echo "Araba sürülüyor.";
+    }
+}
